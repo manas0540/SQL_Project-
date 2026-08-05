@@ -278,4 +278,4 @@ Job_Market_Trend_Analysis
 
 ---
 
-ect useful, don't forget to Star the repository!
+
